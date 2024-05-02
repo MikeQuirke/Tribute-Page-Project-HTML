@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+      <title>Dr. Norman Borlaug</title>
+  </head>
+  <main id="main">
+  <body>
+<div id="img-div">
+    
+      <h1 id="title">Dr. Norman Borlaug</h1>
+      <p id="title-description">The man who saved a billion lives</p>
+
+      <section class="image">
+        <img id="image" src="https://www.apsnet.org/edcenter/apsnetfeatures/Article%20Images/BorlaugWrestler.jpg" alt="Norman-Borlaug-Wrestling-Stance"><div id="img-caption">A young Dr. Norman Borlaug getting ready to wrestle his opponent. Early 1930's</div>
+        <p id="tribute-info" target="_blank">Here's a time line of Dr. Borlaug's life:</p>
+
+        </section>
+
+        <section class="timeline">
+            <ul id="dates-and-times">
+<li id="1914"><strong>1914 </strong> - Born in Cresco, Iowa</li>
+<li id="1933"><strong>1933 </strong> - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"</li>
+<li id="1935"><strong>1935 </strong> - Has to stop school and save up more money. Works in the Civilian Conservation Corps, helping starving Americans. "I saw how food changed them", he said. "All of this left scars on me."</li>
+<li id="1937"><strong>1937 </strong> - Finishes university and takes a job in the US Forestry Service</li>
+<li id="1938"><strong>1938 </strong> - Marries wife of 69 years Margret Gibson. Gets laid off due to budget cuts. Inspired by Elvin Charles Stakman, he returns to school study under Stakman, who teaches him about breeding pest-resistent plants.</li>
+<li id="2009"><strong>2009 </strong> - Dies at the age of 95</li>
+    </ul>
+
+
+</div>
+          </section>
+
+
+
+<footer>
+<p class="link">If you're interested in learning more about Dr. Borlaug <a href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank" id="tribute-link">click here</a></p>
+
+  </footer>
+
+
+
+
+      
+</div>
+  </body>
+
+</main>
+
+
+
+
+
+</html>
